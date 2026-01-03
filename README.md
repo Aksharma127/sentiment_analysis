@@ -1,4 +1,3 @@
-<img width="924" height="790" alt="image" src="https://github.com/user-attachments/assets/a0ba1f01-a4cf-4e5c-88e7-84448354eb3d" />
 # Sentiment Analysis Model – Results & Evaluation
 
 ## Task
@@ -25,7 +24,7 @@ This value should be considered the **primary and deployable result**.
 The following metrics correspond to a **separate retraining run**, included for evaluation transparency and error analysis.
 
 ### Test Metrics
-
+<img src="https://github.com/user-attachments/assets/a0ba1f01-a4cf-4e5c-88e7-84448354eb3d" width="600"/> <br>
 * **Test Accuracy:** 40.00%
 * **Test Loss:** 1.0901
 * **Test Samples:** 200
